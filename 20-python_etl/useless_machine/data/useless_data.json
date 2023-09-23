@@ -1,0 +1,446 @@
+{
+    "interactions": [
+        {
+            "id": 1,
+            "message": {
+                "id": 15,
+                "message": "Αντίο! (Antío!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Against God!"
+                },
+                "language": "Greek",
+                "origin": "Spoken in Greece and Cyprus, as well as by Greek communities around the world."
+            }
+        },
+        {
+            "id": 2,
+            "message": {
+                "id": 49,
+                "language": "Carib",
+                "message": "Yurumei!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Go well!"
+                },
+                "origin": "Historically spoken by the Carib people in the Caribbean, now considered an extinct language."
+            }
+        },
+        {
+            "id": 3,
+            "message": {
+                "id": 48,
+                "language": "Mapudungun",
+                "message": "Mari mari kom pu che!",
+                "translation": {
+                    "text": "Hello to all!",
+                    "literal": "Good day to you all!"
+                },
+                "origin": "Spoken by the Mapuche people in Chile and parts of Argentina."
+            }
+        },
+        {
+            "id": 4,
+            "message": {
+                "id": 45,
+                "language": "Aymara",
+                "message": "Sumajñañanaka!",
+                "translation": {
+                    "text": "Good day to you!",
+                    "literal": "We wish you happiness!"
+                },
+                "origin": "Spoken by the Aymara people in the Andean region of South America, primarily in Bolivia, Peru, and parts of Chile and Argentina."
+            }
+        },
+        {
+            "id": 5,
+            "message": {
+                "id": 32,
+                "message": "Kugara zvakanaka!",
+                "translation": {
+                    "text": "Stay well!",
+                    "literal": "Stay well!"
+                },
+                "language": "Shona",
+                "origin": "Spoken in Zimbabwe and neighboring countries."
+            }
+        },
+        {
+            "id": 6,
+            "message": {
+                "id": 3,
+                "message": "Au revoir!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Until we see each other again!"
+                },
+                "language": "French",
+                "origin": "Spoken in France, Canada, Belgium, Switzerland, and many countries in Africa and the Caribbean."
+            }
+        },
+        {
+            "id": 7,
+            "message": {
+                "id": 31,
+                "message": "Uhambe kahle!",
+                "translation": {
+                    "text": "Go well!",
+                    "literal": "Travel well!"
+                },
+                "language": "Xhosa",
+                "origin": "Spoken in South Africa, primarily in the Eastern Cape province."
+            }
+        },
+        {
+            "id": 8,
+            "message": {
+                "id": 45,
+                "language": "Aymara",
+                "message": "Sumajñañanaka!",
+                "translation": {
+                    "text": "Good day to you!",
+                    "literal": "We wish you happiness!"
+                },
+                "origin": "Spoken by the Aymara people in the Andean region of South America, primarily in Bolivia, Peru, and parts of Chile and Argentina."
+            }
+        },
+        {
+            "id": 9,
+            "message": {
+                "id": 28,
+                "message": "Kachifo!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Rest well!"
+                },
+                "language": "Igbo",
+                "origin": "Spoken in Nigeria, primarily in the southeastern region."
+            }
+        },
+        {
+            "id": 10,
+            "message": {
+                "id": 30,
+                "message": "Kwaheri!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Farewell!"
+                },
+                "language": "Swahili",
+                "origin": "Spoken in many countries in East Africa, including Kenya, Tanzania, and Uganda."
+            }
+        },
+        {
+            "id": 11,
+            "message": {
+                "id": 51,
+                "language": "Mixtec",
+                "message": "Diux nigandii!",
+                "translation": {
+                    "text": "See you later!",
+                    "literal": "Goodbye for now!"
+                },
+                "origin": "Spoken by the Mixtec people in Mexico, primarily in the states of Oaxaca, Guerrero, and Puebla."
+            }
+        },
+        {
+            "id": 12,
+            "message": {
+                "id": 7,
+                "message": "さようなら! (Sayōnara!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "If it must be"
+                },
+                "language": "Japanese",
+                "origin": "Spoken in Japan and by Japanese communities around the world."
+            }
+        },
+        {
+            "id": 13,
+            "message": {
+                "id": 23,
+                "message": "Näkemiin!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Until we see each other again!"
+                },
+                "language": "Finnish",
+                "origin": "Spoken in Finland."
+            }
+        },
+        {
+            "id": 14,
+            "message": {
+                "id": 34,
+                "message": "Sannu da aiki!",
+                "translation": {
+                    "text": "Goodbye and take care!",
+                    "literal": "Greetings and work well!"
+                },
+                "language": "Hausa",
+                "origin": "Primarily spoken in Nigeria and parts of Niger, Chad, and Cameroon."
+            }
+        },
+        {
+            "id": 15,
+            "message": {
+                "id": 22,
+                "message": "До побачення! (Do pobachennya!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Until the meeting!"
+                },
+                "language": "Ukrainian",
+                "origin": "Official language of Ukraine and spoken by Ukrainian communities worldwide."
+            }
+        },
+        {
+            "id": 16,
+            "message": {
+                "id": 34,
+                "message": "Sannu da aiki!",
+                "translation": {
+                    "text": "Goodbye and take care!",
+                    "literal": "Greetings and work well!"
+                },
+                "language": "Hausa",
+                "origin": "Primarily spoken in Nigeria and parts of Niger, Chad, and Cameroon."
+            }
+        },
+        {
+            "id": 17,
+            "message": {
+                "id": 48,
+                "language": "Mapudungun",
+                "message": "Mari mari kom pu che!",
+                "translation": {
+                    "text": "Hello to all!",
+                    "literal": "Good day to you all!"
+                },
+                "origin": "Spoken by the Mapuche people in Chile and parts of Argentina."
+            }
+        },
+        {
+            "id": 18,
+            "message": {
+                "id": 27,
+                "message": "O daaro!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Go well!"
+                },
+                "language": "Yoruba",
+                "origin": "Primarily spoken in Nigeria and parts of Benin and Togo."
+            }
+        },
+        {
+            "id": 19,
+            "message": {
+                "id": 43,
+                "language": "Nahuatl",
+                "message": "Tlazohcamati!",
+                "translation": {
+                    "text": "Thank you!",
+                    "literal": "You are thanked!"
+                },
+                "origin": "Spoken by the Nahua people in Mexico, primarily in the states of Puebla, Veracruz, and Hidalgo."
+            }
+        },
+        {
+            "id": 20,
+            "message": {
+                "id": 7,
+                "message": "さようなら! (Sayōnara!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "If it must be"
+                },
+                "language": "Japanese",
+                "origin": "Spoken in Japan and by Japanese communities around the world."
+            }
+        },
+        {
+            "id": 21,
+            "message": {
+                "id": 2,
+                "message": "Adiós!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "To God!"
+                },
+                "language": "Spanish",
+                "origin": "Spoken primarily in Spain and many countries in Central and South America."
+            }
+        },
+        {
+            "id": 22,
+            "message": {
+                "id": 22,
+                "message": "До побачення! (Do pobachennya!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Until the meeting!"
+                },
+                "language": "Ukrainian",
+                "origin": "Official language of Ukraine and spoken by Ukrainian communities worldwide."
+            }
+        },
+        {
+            "id": 23,
+            "message": {
+                "id": 32,
+                "message": "Kugara zvakanaka!",
+                "translation": {
+                    "text": "Stay well!",
+                    "literal": "Stay well!"
+                },
+                "language": "Shona",
+                "origin": "Spoken in Zimbabwe and neighboring countries."
+            }
+        },
+        {
+            "id": 24,
+            "message": {
+                "id": 50,
+                "language": "Chibchan",
+                "message": "Bochim-ghle!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Go well!"
+                },
+                "origin": "Language family spoken by various indigenous groups in Central and South America."
+            }
+        },
+        {
+            "id": 25,
+            "message": {
+                "id": 28,
+                "message": "Kachifo!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Rest well!"
+                },
+                "language": "Igbo",
+                "origin": "Spoken in Nigeria, primarily in the southeastern region."
+            }
+        },
+        {
+            "id": 26,
+            "message": {
+                "id": 26,
+                "message": "La revedere!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Until we meet again!"
+                },
+                "language": "Romanian",
+                "origin": "Official language of Romania and Moldova, spoken in parts of neighboring countries."
+            }
+        },
+        {
+            "id": 27,
+            "message": {
+                "id": 42,
+                "message": "Kenala hantle!",
+                "translation": {
+                    "text": "Stay well!",
+                    "literal": "Be well!"
+                },
+                "language": "Sesotho",
+                "origin": "Spoken in Lesotho and parts of South Africa."
+            }
+        },
+        {
+            "id": 28,
+            "message": {
+                "id": 12,
+                "message": "안녕히 가세요! (Annyeonghi gaseyo!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Go in peace!"
+                },
+                "language": "Korean",
+                "origin": "Spoken in North and South Korea, and by Korean communities around the world."
+            }
+        },
+        {
+            "id": 29,
+            "message": {
+                "id": 33,
+                "message": "Da yie!",
+                "translation": {
+                    "text": "Go well!",
+                    "literal": "Go well!"
+                },
+                "language": "Twi",
+                "origin": "Official language of Ghana."
+            }
+        },
+        {
+            "id": 30,
+            "message": {
+                "id": 31,
+                "message": "Uhambe kahle!",
+                "translation": {
+                    "text": "Go well!",
+                    "literal": "Travel well!"
+                },
+                "language": "Xhosa",
+                "origin": "Spoken in South Africa, primarily in the Eastern Cape province."
+            }
+        },
+        {
+            "id": 31,
+            "message": {
+                "id": 49,
+                "language": "Carib",
+                "message": "Yurumei!",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Go well!"
+                },
+                "origin": "Historically spoken by the Carib people in the Caribbean, now considered an extinct language."
+            }
+        },
+        {
+            "id": 32,
+            "message": {
+                "id": 38,
+                "message": "Bara dura!",
+                "translation": {
+                    "text": "Stay safe!",
+                    "literal": "Stand well!"
+                },
+                "language": "Oromo",
+                "origin": "Spoken in Ethiopia, Kenya, and parts of Somalia."
+            }
+        },
+        {
+            "id": 33,
+            "message": {
+                "id": 22,
+                "message": "До побачення! (Do pobachennya!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Until the meeting!"
+                },
+                "language": "Ukrainian",
+                "origin": "Official language of Ukraine and spoken by Ukrainian communities worldwide."
+            }
+        },
+        {
+            "id": 34,
+            "message": {
+                "id": 33,
+                "message": "Da yie!",
+                "translation": {
+                    "text": "Go well!",
+                    "literal": "Go well!"
+                },
+                "language": "Twi",
+                "origin": "Official language of Ghana."
+            }
+        }
+    ]
+}

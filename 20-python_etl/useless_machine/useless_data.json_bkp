@@ -1,0 +1,30 @@
+{
+    "interactions": [
+        {
+            "id": 1,
+            "message": {
+                "id": 56,
+                "language": "Sumaq kausaykani",
+                "message": "Sumaq kausaykani!",
+                "translation": {
+                    "text": "Good living to you!",
+                    "literal": "Beautiful life to you!"
+                },
+                "origin": "Spoken by the Quechua people in the Andean region of South America, including Peru, Bolivia, Ecuador, and parts of Colombia, Argentina, and Chile."
+            }
+        },
+        {
+            "id": 12,
+            "message": {
+                "id": 12,
+                "message": "안녕히 가세요! (Annyeonghi gaseyo!)",
+                "translation": {
+                    "text": "Goodbye!",
+                    "literal": "Go in peace!"
+                },
+                "language": "Korean",
+                "origin": "Spoken in North and South Korea, and by Korean communities around the world."
+            }
+        }
+    ]
+}
