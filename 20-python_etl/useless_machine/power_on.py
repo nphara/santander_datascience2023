@@ -5,8 +5,8 @@ from time import sleep
 from random import randrange
 import textwrap as tr
 
-DATA_SOURCE = path.join('useless_machine','data','useless_data.json')
-FAREWELL_FILE = path.join('useless_machine','data', 'farewell.json')
+DATA_SOURCE = path.abspath('useless_machine/data/useless_data.json')
+FAREWELL_FILE = path.abspath('useless_machine/data/farewell.json')
 LINE_LENGTH = 80
 REVERSE_COUNTER = 3
 TERM_WIDTH, TERM_LINES = get_terminal_size()
