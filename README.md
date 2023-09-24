@@ -7,4 +7,4 @@ Each project will have its dedicated repository in the near future.
 
 Current projects:
 
-- [Useless Machine](https://github.com/nphara/santander_datascience2023/tree/main/20-python_etl/useless_machine)
+- [Useless Machine](https://github.com/nphara/santander_datascience2023/blob/main/20-python_etl/README.md)
