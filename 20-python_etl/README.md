@@ -1,5 +1,3 @@
-[[TOC]]
-
 # Useless Machine
 
 From Wikipedia [^1]
@@ -47,11 +45,11 @@ It was designed to be as fancy as it could with the concepts of the first classe
 - JSON
 - Files
 
-"While the Useless Machine code lacks conditional structures and some mathematical operators, it's worth noting that for a program designed to shut itself off, this may not be a significant drawback! :D
+While the Useless Machine code lacks conditional structures and some mathematical operators, it's worth noting that for a program designed to shut itself off, this may not be a significant drawback! :D
 
 Similar to typical Useless Machines, this one also has its own trick. It relies on a JSON file containing 56 farewell greetings from around the world. The program selects one of these greetings and processes a message using that information. Then, the generated message is saved in another JSON and its mission is finally fulfilled.
 
-These greetings were generously provided by ChatGPT after some interactions. Originally, the project was intended to utilize the OpenAI API, but unfortunately, the token had already expired."
+These greetings were generously provided by ChatGPT after some interactions. Originally, the project was intended to utilize the OpenAI API, but unfortunately, the token had already expired.
 
 ## How to use it
 
@@ -75,6 +73,6 @@ Despite its simplicity, there is ample room for improvement. It has the potentia
 
 Known issues:
 
-There is no check for the existence of data files.
-Exception handling is absent.
-Documentation within the code could be more comprehensive.
+- There is no check for the existence of data files.
+- Exception handling is absent.
+- Documentation within the code could be more comprehensive.
