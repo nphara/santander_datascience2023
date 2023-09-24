@@ -10,20 +10,28 @@ From Wikipedia [^1]
 
 These machines can demonstrate a broad range of personalities:
 
-![Glossy useless](https://i.gifer.com/7bTq.gif) 
+![Glossy useless](https://media.tenor.com/T9zuhh6XyC0AAAAC/useless-useless-box.gif)  
 Figure 2: Glossy useless [^2]
 
-[^2]: Tenor, Useless Useless Box, Available at <https://i.gifer.com/7bTq.gif>. Visited on 2023-09-23
+[^2]: Tenor. Useless Useless Box. Available at <[https://i.gifer.com/7bTq.gif](https://media.tenor.com/T9zuhh6XyC0AAAAC/useless-useless-box.gif)>. Visited on 2023-09-23.
 
-![Paranoid useless Box](https://media.tenor.com/YUzcDKBFPywAAAAd/useless-box-robot.gif)
-Figure 3: Paranoid useless box [^3]
+<!-- ![Paranoid useless Box](https://media.tenor.com/YUzcDKBFPywAAAAd/useless-box-robot.gif)  
+Figure 3: Paranoid useless box [^3] -->
 
-[^3]: Tenor, Useless Box Robot, Available at <https://media.tenor.com/YUzcDKBFPywAAAAd/useless-box-robot.gif>. Visited on 2023-09-23
+[^3]: Tenor. Useless Box Robot. Available at <https://media.tenor.com/YUzcDKBFPywAAAAd/useless-box-robot.gif>. Visited on 2023-09-23.
 
-![Totally aggressive useless box](https://media.tenor.com/WhwYR9wv8LgAAAAC/to-be-continued-gun.gif)
+![Totally aggressive useless box](https://media.tenor.com/WhwYR9wv8LgAAAAC/to-be-continued-gun.gif)  
 Figure 4: Totally agressive useless box [^4]
 
-[^4]: Tenor, To be continued. Available at <https://media.tenor.com/WhwYR9wv8LgAAAAC/to-be-continued-gun.gif>. Visited on 2023-09-23
+[^4]: Tenor. To be continued. Available at <https://media.tenor.com/WhwYR9wv8LgAAAAC/to-be-continued-gun.gif>. Visited on 2023-09-23.
+
+![](https://i.imgur.com/1JhMP03.gif)
+![](https://global.discourse-cdn.com/boingboing/original/4X/f/f/d/ffd2e5dfb68736b85c809bfc3d16c0785cb60018.gif)  
+Figure 5, 6: You know, cats [^5][^6]
+
+[^5]: Useless machine - cat edition. Available at <https://imgur.com/gallery/1JhMP03/comment/359838573>. Visited on 2023-09-23.
+
+[^6]: Cat vs Useless Box. Available at <https://imgur.com/a9obRN7>. Visited on 2023-09-23.
 
 ## Useless <s> code </s> machine
 
